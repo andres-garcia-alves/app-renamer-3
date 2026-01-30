@@ -66,7 +66,7 @@ Download and  doble-click 'Setup.exe' to install.
 
 ### Requirements
 
-- .NET 7 runtime is needed.  
+- .NET 9 runtime is needed.  
 
 &nbsp;
 
