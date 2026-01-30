@@ -1,33 +1,36 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v7.0",
+    "name": ".NETCoreApp,Version=v9.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v7.0": {
-      "Renamer.Front/3.1.0.0": {
+    ".NETCoreApp,Version=v9.0": {
+      "Renamer.Front/3.2.0.0": {
         "dependencies": {
-          "Renamer.Engine": "3.1.0"
+          "Renamer.Engine": "3.2.0"
         },
         "runtime": {
           "Renamer.Front.dll": {}
         }
       },
-      "Renamer.Engine/3.1.0": {
+      "Renamer.Engine/3.2.0": {
         "runtime": {
-          "Renamer.Engine.dll": {}
+          "Renamer.Engine.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
-    "Renamer.Front/3.1.0.0": {
+    "Renamer.Front/3.2.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Renamer.Engine/3.1.0": {
+    "Renamer.Engine/3.2.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -2,20 +2,20 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0-windows</TargetFramework>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationIcon>Main.ico</ApplicationIcon>
 
     <Title>Renamer.Front</Title>
-    <Version>3.1.0.0</Version>
+    <Version>3.2.0.0</Version>
     <Description>A fully-featured files/folders massive renamer.</Description>
     <Company>Andres Garcia Alves</Company>
     <Product>Renamer 3</Product>
-    <Copyright>Copyright © 2023 Andres Garcia Alves</Copyright>
-    <AssemblyVersion>3.1.0.0</AssemblyVersion>
-    <FileVersion>3.1.0.0</FileVersion>
+    <Copyright>Copyright © 2023-2026 Andres Garcia Alves</Copyright>
+    <AssemblyVersion>3.2.0.0</AssemblyVersion>
+    <FileVersion>3.2.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

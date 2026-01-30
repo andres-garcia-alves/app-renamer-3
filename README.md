@@ -1,4 +1,4 @@
-# Renamer 3.1
+# Renamer 3.2
 
 A fully-featured files/folders massive renamer.
 
@@ -73,8 +73,9 @@ Download and  doble-click 'Setup.exe' to install.
 ### Version History
 
 v3.0.0 (2021.05.07) - Initial release.  
-v3.1.0 (2023.06.30) - Updated runtime from .NET Framework 4.8 to .NET 7.  
+v3.1.0 (2023.06.30) - Upgrade runtime from .NET Framework 4.8 to .NET 7.  
 v3.1.1 (2023.07.01) - Bug fix con consecutive renaming.  
+v3.2.0 (2026.01.30) - Upgrade runtime to .NET 9.  
 
 &nbsp;
 

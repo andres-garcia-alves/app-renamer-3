@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System;
+using System.Reflection;
+using System.Text;
 
 using Renamer.Engine;
 using Renamer.Engine.Entities;
@@ -19,7 +21,7 @@ namespace Renamer.Front
         {
             InitializeComponent();
 
-            this.Text = "Renamer v" + Application.ProductVersion;
+            this.Text = $"Renamer v{ Assembly.GetExecutingAssembly().GetName().Version }";
             this.LoadDrives();
         }
 
